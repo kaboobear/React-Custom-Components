@@ -52,9 +52,9 @@
 
 
 
-[forks-shield]: https://img.shields.io/github/forks/kaboobear/ReactCustomComponents?style=flat-square
-[forks-url]: https://github.com/kaboobear/ReactCustomComponents/network/members
-[issues-shield]: https://img.shields.io/github/issues/kaboobear/ReactCustomComponents.svg?style=flat-square
-[issues-url]: https://github.com/kaboobear/ReactCustomComponents/issues
-[license-shield]: https://img.shields.io/github/license/kaboobear/ReactCustomComponents.svg?style=flat-square
-[license-url]: https://github.com/kaboobear/ReactCustomComponents/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/kaboobear/React-Custom-Components?style=flat-square
+[forks-url]: https://github.com/kaboobear/React-Custom-Components/network/members
+[issues-shield]: https://img.shields.io/github/issues/kaboobear/React-Custom-Components.svg?style=flat-square
+[issues-url]: https://github.com/kaboobear/React-Custom-Components/issues
+[license-shield]: https://img.shields.io/github/license/kaboobear/React-Custom-Components.svg?style=flat-square
+[license-url]: https://github.com/kaboobear/React-Custom-Components/blob/master/LICENSE.txt
